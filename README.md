@@ -41,7 +41,7 @@ Rapid may temporarily access and process the following data for the sole purpose
 If you have any questions or concerns about this privacy policy or your data, feel free to contact us at:
 
 📩 **Email:** nxd293770@gmail.com  
-🌐 **Support Server:** [discord.gg/rapid]
+🌐 **Support Server:** [https://discord.gg/rapid]
 
 ---
 
